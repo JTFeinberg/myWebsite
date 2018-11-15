@@ -39,3 +39,9 @@ h4 {
 p {
     margin: 0 0 1em 0;
 }
+a {
+    color: #007eff;
+}
+a:visited {
+    color: #65b1ff;
+}
