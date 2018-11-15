@@ -26,3 +26,8 @@ h2 {
     font-weight: 700;
     line-height: 1.1em;
 }
+h3 {
+    margin: 0 0 .5em 0;
+    font-size: 1.3em;
+    font-weight: 700;
+}
