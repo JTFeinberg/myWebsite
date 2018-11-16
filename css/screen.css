@@ -362,5 +362,11 @@ Media Queries
     h1 {
         font-size: 2.4em;
     }
-    
+    /* Header */
+    header div.hero {
+        left: 56%
+    }
+    header div.hero h1{
+        margin-bottom: 20px;
+    }
 }
