@@ -266,6 +266,12 @@ nav ul li a {
     width: 125px;
     position: relative;
 }
+nav ul li a:visited {
+    color: #fff;
+}
+nav ul li a:visited {
+    color: #fff;
+}
 
 /*
 Footer
