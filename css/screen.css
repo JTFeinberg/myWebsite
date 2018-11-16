@@ -321,7 +321,16 @@ nav a[aria-haspopup="true"]::after {
     right: 15px;
     border-top: 4px solid transparent;
     border-bottom: 4px solid transparent;
-    border-left: 4px solid white;
+    border-left: 4px solid #fff;
+}
+nav > ul > li > a[aria-haspopup="true"]::after {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid #fff;
+    left: 20px;
+    right: auto;
+    bottom: 6px;
+    top: auto;
 }
 
 /*
