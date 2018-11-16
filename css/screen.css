@@ -441,4 +441,9 @@ Media Queries
         background-size: 55px 55px;
         padding-top: 60px;
     }
+
+    /* Section - How to */
+    section.how-to aside div.content img {
+        width: 85%
+    }
 }
