@@ -181,3 +181,14 @@ section.how-to aside .content img {
     margin-bottom: 15px;
     width: 70%;
 }
+section.how-to aside .content h4 {
+    margin-bottom: 0;
+}
+section.how-to aside .content p {
+    margin-bottom: .5em;
+}
+section.how-to aside .content a {
+    display: inline-block;
+    color: #cc6633;
+    font-weight: 700;
+}
