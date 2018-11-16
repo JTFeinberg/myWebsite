@@ -296,6 +296,7 @@ nav ul ul ul {
    left: 100%;
    top:0px;
 }
+
 /*
 Navigation - Top Level
 **************************/
@@ -308,6 +309,16 @@ nav > ul > li {
 nav > ul > li > a {
     width: auto;
     padding: 10px 20px 15px 20px;
+}
+
+nav a[aria-haspopup="true"]::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    top: 16px;
+    right: 15px;
 }
 
 /*
