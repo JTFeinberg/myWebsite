@@ -71,6 +71,12 @@ header a.logo {
     top: 15px;
     left: 20px;
 }
-header a.logo span{
+header a.logo span {
     display: none;
+}
+header div.hero {
+    position: absolute;
+    width: 42%;
+    top: 130px;
+    left: 55%;
 }
