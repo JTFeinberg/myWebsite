@@ -192,3 +192,12 @@ section.how-to aside .content a {
     color: #cc6633;
     font-weight: 700;
 }
+section.how-to blockquote {
+    margin: 0;
+    width: 32%;
+    color: #444;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    right: 4%
+}
