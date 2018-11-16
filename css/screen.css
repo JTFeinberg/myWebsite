@@ -74,6 +74,7 @@ header {
   position: relative;
 }
 header a.logo {
+    z-index: 1;
     position: absolute;
     display: block;
     width: 160px;
