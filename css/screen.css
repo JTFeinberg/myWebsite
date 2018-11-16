@@ -381,4 +381,11 @@ Media Queries
     h1 {
         font-size: 2.2em;
     }
+
+    /* Header */
+    header {
+        height: 300px;
+        background-image: url(../images/banner_825.jpg)
+    }
+    
 }
