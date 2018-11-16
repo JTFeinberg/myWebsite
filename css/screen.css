@@ -118,3 +118,9 @@ section.main aside {
     float: left;
     text-align: center;
 }
+section.main .content {
+    margin: 15px;
+    background: no-repeat center top;
+    background-size: 75px 75px;
+    padding-top: 85px;
+}
