@@ -281,6 +281,9 @@ Navigation - Top Level
 nav > ul {
     padding-left: 200px;
 }
+nav > ul > li {
+    float: left;
+}
 
 /*
 Footer
