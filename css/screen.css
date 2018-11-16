@@ -145,6 +145,7 @@ section.main aside .content.find-it {
 section.main aside .content.tools {
     background-image: url(../images/icon_gear.svg)
 }
+
 /*
 Section - Atmosphere
 **************************/
@@ -159,3 +160,12 @@ section.atmosphere article {
     background: url(../images/photo_lounge.jpg) no-repeat 0 5px;
     min-height: 220px;
 }
+
+/*
+Section - How To
+**************************/
+section.how-to {
+    background-color: #eee9d9;
+    position: relative;
+}
+section.how-to aside
