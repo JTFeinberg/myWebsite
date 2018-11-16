@@ -253,6 +253,11 @@ nav {
     padding: 50px 0 0 0;
     width: 100%;
 }
+nav::after {
+    content: '';
+    display: block;
+    clear: both;
+}
 nav ul {
     list-style: none;
     margin: 0;
