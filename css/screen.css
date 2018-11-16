@@ -319,6 +319,9 @@ nav a[aria-haspopup="true"]::after {
     position: absolute;
     top: 16px;
     right: 15px;
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+    border-left: 4px solid white;
 }
 
 /*
