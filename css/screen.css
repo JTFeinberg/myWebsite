@@ -446,4 +446,9 @@ Media Queries
     section.how-to aside div.content img {
         width: 85%
     }
+
+    /* Navigation */
+    nav {
+        padding-top: 80px;
+    }
 }
