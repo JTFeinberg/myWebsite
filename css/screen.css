@@ -398,4 +398,10 @@ Media Queries
         background-size: 300px auto;
     }
 
+    /* Section - How to */
+    section.how-to blockquote p.quote {
+        font-size: 1.1em;
+        line-height: 1.2em;
+    }
+
 }
