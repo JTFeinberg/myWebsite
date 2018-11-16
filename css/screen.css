@@ -409,5 +409,16 @@ Media Queries
 }
 
 @media screen and (max-width: 760px) {
-    
+    h1 {
+        font-size: 1.8em;
+    }
+    h2 {
+        font-size: 1.4em;
+    }
+    h3 {
+        font-size: 1.1em;
+    }
+    a.btn {
+        font-size: 1em;
+    }
 }
