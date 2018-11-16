@@ -244,3 +244,16 @@ footer {
     margin: 40px;
     color: #999;
 }
+footer .content {
+    display: inherit;
+}
+footer a {
+    margin-left: 30px;
+    color: #777;
+}
+footer a:visited {
+    color: #777;
+}
+footer a:hover {
+    color: #000;
+}
