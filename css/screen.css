@@ -407,3 +407,7 @@ Media Queries
         font-size: .85em;
     }
 }
+
+@media screen and (max-width: 760px) {
+    
+}
