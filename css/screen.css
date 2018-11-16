@@ -216,3 +216,12 @@ section.how-to blockquote p.credit {
     line-height: 1.3em;
     position: relative;
 }
+section.how-to blockquote::before {
+    content: '\201c';
+    color: #d2bd65;
+    position: absolute;
+    top: 10px;
+    left: 8px;
+    font-size: 5em;
+    font-family: serif;
+}
