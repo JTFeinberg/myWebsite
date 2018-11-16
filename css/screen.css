@@ -245,7 +245,7 @@ footer {
     color: #999;
 }
 footer .content {
-    display: inherit;
+    display: inline;
 }
 footer a {
     margin-left: 30px;
