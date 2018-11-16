@@ -451,4 +451,7 @@ Media Queries
     nav {
         padding-top: 80px;
     }
+    nav > ul {
+        padding-left: 10px;
+    }
 }
