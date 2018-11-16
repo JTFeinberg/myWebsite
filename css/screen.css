@@ -58,6 +58,11 @@ a.btn {
     color: #fff;
     border: 1px solid #fff;
     padding: 4px 15px;
+    transition: background-color .5s;
+}
+a.btn:hover {
+    background-color: rgba(0,0,0,.3);
+    
 }
 
 /*
