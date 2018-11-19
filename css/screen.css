@@ -503,6 +503,12 @@ Media Queries
         background-position: 20px 5px;
     }
 
+    /* Section - Atmosphere */
+    section.atmosphere article {
+        padding: 160px 20px 0 0;
+        background-size: 300px auto;
+        min-height: initial;
+    }
     /* Section - How to */
  
 
