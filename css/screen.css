@@ -536,6 +536,9 @@ Media Queries
         padding: 1px 0 20px 0px;
         position: relative;
     }
+    section.how-to blockquote p.credit {
+        margin-bottom: 0;
+    }
 
     /* Navigation */
     nav {
