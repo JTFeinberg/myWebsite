@@ -583,5 +583,13 @@ Media Queries
     nav a[aria-haspopup="true"]::after {
         display: none;
     }
+    /* Footer */
+    footer div.content {
+        display: block;
+        margin-top: 15px;
+    }
+    footer div.content a {
+        margin: 0 20px 0 0;
+    }
 
 }
