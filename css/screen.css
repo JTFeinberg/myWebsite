@@ -517,6 +517,12 @@ Media Queries
         margin: 0;
         position: relative;
     }
+    section.how-to aside div.content {
+        padding: 20px 20px 20px 150px;
+    }
+    section.how-to aside div.content p {
+        
+    }
 
     /* Navigation */
     nav {
