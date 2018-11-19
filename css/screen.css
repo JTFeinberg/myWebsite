@@ -509,8 +509,14 @@ Media Queries
         background-size: 300px auto;
         min-height: initial;
     }
+
     /* Section - How to */
- 
+    section.how-to aside {
+        width: 100%;
+        float: none;
+        margin: 0;
+        position: relative;
+    }
 
     /* Navigation */
     nav {
