@@ -482,6 +482,14 @@ Media Queries
         background-size: 112px 46px;
         background-position: 20px center;
     }
+    header div.hero {
+        width: 300px;
+        top: 85px;
+        left: 130px;
+    }
+    header div.hero h1 {
+        margin-bottom: 10px;
+    }
 
     /* Navigation */
     nav {
