@@ -490,6 +490,15 @@ Media Queries
     header div.hero h1 {
         margin-bottom: 10px;
     }
+     /* Section - Main */
+     section.main aside {
+        width: 100%;
+        float: none;
+        text-align: left;
+    }
+
+    /* Section - How to */
+ 
 
     /* Navigation */
     nav {
