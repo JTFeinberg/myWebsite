@@ -551,4 +551,11 @@ Media Queries
         display: block;
         position: static;
     }
+    nav > ul {
+        padding: 0;
+    }
+    nav > ul > li {
+        float: none;
+        margin-top: 25px;
+    }
 }
