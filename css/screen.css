@@ -580,5 +580,8 @@ Media Queries
     nav ul ul ul li a {
         margin-left: 60px;
     }
+    nav a[aria-haspopup="true"]::after {
+        display: none;
+    }
 
 }
