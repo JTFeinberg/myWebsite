@@ -591,5 +591,8 @@ Media Queries
     footer div.content a {
         margin: 0 20px 0 0;
     }
+}
+
+@media screen and (max-width: 425px) {
 
 }
