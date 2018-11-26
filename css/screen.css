@@ -594,5 +594,10 @@ Media Queries
 }
 
 @media screen and (max-width: 425px) {
+    /* Header */
+    header {
+        height: 110px;
+        background-image: url(../images/banner_425.jpg);
+    }
 
 }
