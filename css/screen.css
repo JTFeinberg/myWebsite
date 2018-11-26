@@ -636,6 +636,11 @@ Media Queries
     }
 
     /* Footer */
+    footer::after {
+        content: '';
+        display: block;
+        clear: both;
+    }
     footer div.content a {
         display: inline-block;
         margin: 0 0 10px 0;
