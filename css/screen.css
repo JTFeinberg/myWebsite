@@ -599,5 +599,10 @@ Media Queries
         height: 110px;
         background-image: url(../images/banner_425.jpg);
     }
+    header a.logo {
+        height: 36px;
+        background: rgba(0,0,0,.65) url(../images/logo_small.svg) no-repeat center center;
+        background-size: 126px 17px;
+    }
 
 }
