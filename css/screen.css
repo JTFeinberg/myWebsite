@@ -610,5 +610,9 @@ Media Queries
         top: 46px;
         text-align: center;
     }
+    header div.hero h1 {
+        font-size: 1em;
+        margin-bottom: 10px;
+    }
 
 }
