@@ -618,5 +618,7 @@ Media Queries
         padding: 2px 30px;
         font-size: .8em;
     }
-
+    header div.hero a.btn span {
+        display: none;
+    }
 }
