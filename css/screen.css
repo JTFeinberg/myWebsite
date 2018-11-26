@@ -604,5 +604,11 @@ Media Queries
         background: rgba(0,0,0,.65) url(../images/logo_small.svg) no-repeat center center;
         background-size: 126px 17px;
     }
+    header div.hero {
+        width: 100%;
+        left: 0px;
+        top: 46px;
+        text-align: center;
+    }
 
 }
